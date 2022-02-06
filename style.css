@@ -1,0 +1,15 @@
+h3{
+    text-align: center;
+    background-color:aqua;
+    margin-top: 0;
+}
+
+.copy_right_footer{
+    position: fixed;
+    color: white;
+    bottom: 0;
+    width: 100%;
+    background-color: grey;
+    line-height: 3;
+    text-align: center;
+}
